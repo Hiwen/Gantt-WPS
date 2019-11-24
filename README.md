@@ -5,3 +5,6 @@
 今天我来写一下使用WPS制作甘特图的方法。先看效果图：
 
 ![运行效果](https://github.com/Hiwen/Gant-WPS/blob/master/%E6%95%88%E6%9E%9C%E5%9B%BE.png "运行效果")
+
+详细制作教程，请您移步![制作教程](https://github.com/Hiwen/Gant-WPS/blob/master/%E6%89%8B%E6%8A%8A%E6%89%8B%E6%95%99%E4%BD%A0%E4%BD%BF%E7%94%A8WPS%E5%88%B6%E4%BD%9C%E7%94%98%E7%89%B9%E5%9B%BE.docx "制作教程")
+
